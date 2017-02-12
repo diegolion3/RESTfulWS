@@ -1,0 +1,9 @@
+#Ignorar .class [clases compiladas] 
+*.class 
+
+#Ignorar .swp
+*.swp
+
+#ignorar de eclipse
+*.metadata
+*.project
